@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: Company B
+    detail: Exceedwiz
     i18n: company_b
   desc:
     detail: I worked at Company B ...
